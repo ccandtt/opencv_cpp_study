@@ -1,4 +1,5 @@
-﻿#include <opencv2/imgcodecs.hpp>
+//learn how to read and show image,video,webcam
+#include <opencv2/imgcodecs.hpp>
 #include <opencv2/highgui.hpp>
 #include <opencv2/imgproc.hpp>
 #include <iostream>
